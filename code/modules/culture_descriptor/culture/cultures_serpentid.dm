@@ -49,7 +49,7 @@
 
 /decl/cultural_info/culture/nabber/b
 	name = CULTURE_NABBER_B
-	valid_jobs = list(/datum/job/bartender, /datum/job/chef)
+	valid_jobs = list(/datum/job/bartender, /datum/job/cargo_tech, /datum/job/chef, /datum/job/mining, /datum/job/medical_trainee, /datum/job/engineer_trainee, /datum/job/explorer)
 
 /decl/cultural_info/culture/nabber/b/minus
 	name = CULTURE_NABBER_BMINUS
@@ -59,7 +59,7 @@
 
 /decl/cultural_info/culture/nabber/a
 	name = CULTURE_NABBER_A
-	valid_jobs = list(/datum/job/chemist, /datum/job/roboticist)
+	valid_jobs = list(/datum/job/chemist, /datum/job/roboticist, /datum/job/psiadvisor, /datum/job/explorer, /datum/job/engineer, /datum/job/engineer_trainee, /datum/job/doctor, /datum/job/medical_trainee, /datum/job/mining, /datum/job/scientist, /datum/job/scientist_assistant, /datum/job/merchant)//SKYRAT EDIT, GAS smart.
 
 /decl/cultural_info/culture/nabber/a/minus
 	name = CULTURE_NABBER_AMINUS
